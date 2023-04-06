@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaoula</h1>
 <h3 align="center">web developer and machine learning engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meharkhaoula" alt="meharkhaoula" /></a> </p>
+
 
 - 🔭 I’m currently working on **NLP project**
 
