@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NLP project**
 
-- 🌱 I’m currently learning **deep learning**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **ik_mehar@esi.dz**
 
