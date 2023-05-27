@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **NLP Project**
 
-- 🌱 I’m currently learning **Python**
-
 - 📫 How to reach me **ik_mehar@esi.dz**
 
 <h3 align="left">Connect with me:</h3>
